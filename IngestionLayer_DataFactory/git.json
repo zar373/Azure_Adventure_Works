@@ -1,0 +1,54 @@
+[
+    {
+        "p_relative_url": "zar373/Azure_Pipeline_Dataset/refs/heads/main/AdventureWorks_Calendar.csv",
+        "p_sink_folder": "AdventureWorks_Calendar",
+        "p_sink_file": "AdventureWorks_Calendar.csv"
+    },
+    {
+        "p_relative_url": "zar373/Azure_Pipeline_Dataset/refs/heads/main/AdventureWorks_Customers.csv",
+        "p_sink_folder": "AdventureWorks_Customers",
+        "p_sink_file": "AdventureWorks_Customers.csv"
+    },
+    {
+        "p_relative_url": "zar373/Azure_Pipeline_Dataset/refs/heads/main/AdventureWorks_Product_Categories.csv",
+        "p_sink_folder": "Product_Categories",
+        "p_sink_file": "AdventureWorks_Product_Categories.csv"
+        
+    },
+    {
+        "p_relative_url": "zar373/Azure_Pipeline_Dataset/refs/heads/main/AdventureWorks_Product_Subcategories.csv",
+        "p_sink_folder": "Product_SubCategories",
+        "p_sink_file": "AdventureWorks_Product_Subcategories.csv"
+        
+    },
+    {
+        "p_relative_url": "zar373/Azure_Pipeline_Dataset/refs/heads/main/AdventureWorks_Products.csv",
+        "p_sink_folder": "Products",
+        "p_sink_file": "AdventureWorks_Products.csv"
+        
+    },
+    {
+        "p_relative_url": "zar373/Azure_Pipeline_Dataset/refs/heads/main/AdventureWorks_Returns.csv",
+        "p_sink_folder": "Returns",
+        "p_sink_file":"AdventureWorks_Returns.csv"
+    },
+    {
+        "p_relative_url": "zar373/Azure_Pipeline_Dataset/refs/heads/main/AdventureWorks_Sales_2015.csv",
+        "p_sink_folder": "Sales_2015",
+        "p_sink_file":"AdventureWorks_Sales_2015.csv"
+    },    {
+        "p_relative_url": "zar373/Azure_Pipeline_Dataset/refs/heads/main/AdventureWorks_Sales_2016.csv",
+        "p_sink_folder": "Sales_2016",
+        "p_sink_file":"AdventureWorks_Sales_2016.csv"
+    },    {
+        "p_relative_url": "zar373/Azure_Pipeline_Dataset/refs/heads/main/AdventureWorks_Sales_2017.csv",
+        "p_sink_folder": "Sales_2017",
+        "p_sink_file":"AdventureWorks_Sales_2017.csv"
+    },    {
+        "p_relative_url": "zar373/Azure_Pipeline_Dataset/refs/heads/main/AdventureWorks_Territories.csv",
+        "p_sink_folder": "Territories",
+        "p_sink_file":"AdventureWorks_Territories.csv"
+    },
+
+
+]
